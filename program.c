@@ -1,6 +1,6 @@
 #include<stdio.h>
  int main()
 {
- uh
+ code honi chahiye
 }
 
